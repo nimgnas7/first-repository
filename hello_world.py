@@ -1,6 +1,3 @@
-def print_hello():
-    print("Hello World!!")
+for i in range(3):
+    print(i)
 
-if __name__ == '__main__':
-    print_hello()
-    
