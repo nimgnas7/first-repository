@@ -1,6 +1,3 @@
-def print_hello():
-    print("Hello World!!")
-
-if __name__ == '__main__':
-    print_hello()
-    
+import numpy as np
+array = np.array([[1, 2, 3], [4, 5, 6]])
+print(array)
